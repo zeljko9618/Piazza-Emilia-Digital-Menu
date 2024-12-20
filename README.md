@@ -9,3 +9,5 @@ HTML: Strukturierung der Inhalte und Menüpunkte.
 CSS: Gestaltung und Layout der Website, einschließlich des dunklen Themas und der responsiven Anpassungen.
 Jinja2: Template-Engine zur dynamischen Generierung der Menüpunkte basierend auf den Daten.
 
+Starten:
+bitte in das terminal folgendes eintippen: python manage.py runserver
